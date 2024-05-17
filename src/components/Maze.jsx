@@ -80,7 +80,7 @@ const Maze = ({
                 (x == maze.length - 1 && y == maze[0].length - 1)
                   ? "bg-gray-600"
                   : isPathExist(path, [x, y])
-                  ? "bg-green-500"
+                  ? "bg-green-600"
                   : " bg-gray-800"
               }`}
               key={y}
