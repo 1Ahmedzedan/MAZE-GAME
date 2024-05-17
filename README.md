@@ -4,10 +4,11 @@ This project is a maze game built using React.js. It utilizes a backtracking alg
 
 ## Table of Contents
 1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Features](#features)
-4. [Technologies Used](#technologies-used)
-5. [Contributing](#contributing)
+2. [Live Demo](#Live-Demo)
+3. [Usage](#usage)
+4. [Features](#features)
+5. [Technologies Used](#technologies-used)
+6. [Contributing](#contributing)
 
 ## Installation
 
@@ -28,7 +29,11 @@ To get started with the project, follow these steps:
    npm install
    ```
 
-## Usage
+## Live Demo
+
+Check out the live demo of the Chat App [here](https://chat-app-dvqz.onrender.com)!
+
+# Usage
 
 After installation, you can start the development server:
 
