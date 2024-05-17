@@ -36,6 +36,7 @@ const Game = ({ selectedChar, exitGame }) => {
   const handleResetGame = () => {
     setGameStatus("");
     setLevel(0);
+    setMaze(generateMaze(0));
     setPath([]);
     setNumberOfTimeGetPath(0);
     setTotalSeconds(30);

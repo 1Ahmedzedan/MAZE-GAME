@@ -6,11 +6,11 @@ export function generateMaze(level) {
     { rows: 4, cols: 5 },
     { rows: 4, cols: 6 },
     { rows: 5, cols: 5 },
+    { rows: 5, cols: 6 },
     { rows: 6, cols: 6 },
     { rows: 6, cols: 7 },
     { rows: 7, cols: 7 },
     { rows: 7, cols: 8 },
-    { rows: 7, cols: 9 },
   ];
 
   let rows = levels[level].rows,
