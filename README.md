@@ -31,7 +31,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-Check out the live demo of the Chat App [here](https://chat-app-dvqz.onrender.com)!
+Check out the live demo of the Chat App [here](https://1ahmedzedan.github.io/MAZE-GAME/)!
 
 # Usage
 
